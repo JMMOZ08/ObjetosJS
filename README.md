@@ -14,4 +14,4 @@ Criação de um app quer faz o mapeamento de velocidade em um carro, através da
 
 João Zanata
 
-https://www.linkedin.com/joaomarcoszanata
+https://www.linkedin.com/in/joaomarcoszanata/
